@@ -28,6 +28,17 @@
       object-fit: contain;
     }
   }
+
+  @media (max-width: 380px) {
+    img {
+      padding-top: 50px;
+    }
+
+    .info {
+      padding-top: 110px;
+      height: 100vh;
+    }
+  }
 }
 
 .loadingContainer {
