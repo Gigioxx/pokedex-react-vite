@@ -21,5 +21,5 @@ export const usePokemon = (url?: string, id?: string) => {
     fetchPokemon();
   }, []);
 
-  return pokemon;
+  return { pokemon };
 };
