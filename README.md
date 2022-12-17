@@ -1,5 +1,5 @@
 # pokedex-react-vite
-Pokedex app using [PokeApi](https://pokeapi.co/). Created with React, Typescript, Vite, Sass
+Pokedex app using [PokeApi](https://pokeapi.co/). Created with React, Typescript, Vite, Sass.
 
 # Setup
 
